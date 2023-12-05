@@ -1,7 +1,6 @@
 ## lbu0925.github.io
 Lawrence B. Umali 
 # Famous chess players in the world
----
 - **Magnus Carlsen**
 
 ![Highest rated chess player of all time](https://cdn.chess24.com/3rICM8YvTv-7DoX6fxxPWA/original/51742474648_86c1d847e2_c--1.jpg)
